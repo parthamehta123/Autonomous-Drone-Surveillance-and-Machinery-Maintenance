@@ -5,9 +5,9 @@ Detailed description of the project is given in the report
 # Object Detection 
 
 Dowload the yolov3 weights from https://pjreddie.com/darknet/yolo/
-<br>
+<br><br>
 Upload images to be tested in test folder and run 
-<br>
+<br><br>
 python yolo_drone.py 
-<br>
+<br><br>
 Ouput images are stored in output folder 
