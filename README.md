@@ -4,7 +4,7 @@ Detailed description of the project is given in the report
 
 # Object Detection 
 
-Dowload the yolov3 weights from https://pjreddie.com/darknet/yolo/
+Dowload the yolov3 weights from https://pjreddie.com/darknet/yolo/ and place it inside the folder yolo-deep_learning
 <br><br>
 Upload images to be tested in yolo-deep_learning/output_aerial folder and run 
 <br><br>
