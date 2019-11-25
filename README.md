@@ -12,4 +12,3 @@ python yolo_drone.py
 <br><br>
 Ouput images are stored in output folder 
 
-============ WORK IN PROGRESS ==================
