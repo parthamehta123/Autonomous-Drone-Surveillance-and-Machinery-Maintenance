@@ -1,6 +1,6 @@
 # Autonomous-Drone-Surveillance-and-Machinery-Maintenance
 
-Detailed description of the project is given in the report 
+Detailed description of the project is given in the report [Report](https://github.com/sand47/Autonomous-Drone-Surveillance-and-Machinery-Maintenance/blob/master/project_report.pdf)
 
 # Object Detection 
 
