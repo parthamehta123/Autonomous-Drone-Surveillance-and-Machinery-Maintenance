@@ -6,7 +6,7 @@ Detailed description of the project is given in the report [Report](https://gith
 
 # Object Detection 
 
-**Note:** This is not the optimized Yolov3 code used in project but instead a generic code. Its not published due to IP concerns.  <br>
+**Note:** This is not the optimized Yolov3 code used in project but instead a generic code. Its not published due to IP concerns.  <br><br>
 Download the yolov3 weights from https://pjreddie.com/darknet/yolo/ and place it inside the folder yolo-deep_learning
 <br><br>
 Upload images to be tested in yolo-deep_learning/output_aerial folder and run 
