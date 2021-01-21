@@ -21,8 +21,8 @@ void loop()
     gps.encode(ss.read());
     if (gps.location.isUpdated())
     {
-      Serial.println("Boat Exact Location");
-      Serial.print("Latitude= ");
+      Serial.println("Vehicle Exact Location");
+      Serial.print("Latitude = ");
       Serial.print(gps.location.lat(), 6);
       Serial.print(" Longitude= ");
       Serial.println(gps.location.lng(), 6);
