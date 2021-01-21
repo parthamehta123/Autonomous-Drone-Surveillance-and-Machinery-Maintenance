@@ -4,6 +4,7 @@ import logging
 import time
 import os 
 import pynmea2
+
 sense = SenseHat()
 
 logging.basicConfig(filename="machinery_log.txt",
