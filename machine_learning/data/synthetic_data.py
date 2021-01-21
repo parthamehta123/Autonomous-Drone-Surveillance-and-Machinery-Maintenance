@@ -44,9 +44,8 @@ def random_generation(list1,list2):
     return out    
 
 if __name__=="__main__":
-   
-    
-    #safe
+       
+    #safe sensor condition 
     temp =[30,40];pressure=[900,1100];humidity=[30,80];x=[];y=[];z=[];label=0;window=[20,30,800,900,80,90]
     safe = data_generation(temp,pressure,humidity,x,y,z,0,window,mode='safe')
               
